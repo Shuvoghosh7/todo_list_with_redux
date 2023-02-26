@@ -9,6 +9,7 @@
         text:"Lern node js",
         completed:false,
         color:"red"
+        
     }
 ] 
 export default initialState;
